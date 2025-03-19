@@ -10,6 +10,7 @@
     color: white;
     display: flex ;
     align-items: center;
+    justify-content: space-evenly;
 
 }
 /* box 1 */
@@ -55,6 +56,7 @@
     background-color: pink;
     justify-content: space-evenly;
 }
+
 .search-select{
     background-color: #F3F3F3;
     width: 50px;
@@ -78,3 +80,18 @@
     border-top-right-radius: 4px;
     border-bottom-right-radius: 4px;
 }
+
+.nav-search:hover{
+    border: 2px solid orange;
+}
+
+/* box 4 */
+span{
+    font-size: 0.7 rem;
+}
+.nav-second{
+    font-size: 0.7 rem;
+    font-weight: 700;
+}
+
+/* box 6 */
