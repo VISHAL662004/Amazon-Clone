@@ -102,3 +102,27 @@ span{
     font-size: 0.85rem;
     font-weight: 700;
 }
+
+/* sub nav bar */
+
+.sub-navbar{
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    padding-left: 11px;
+    align-items: center;
+    height: 40px;
+}
+
+.sub-navbar-all{
+    padding: 8px 9px;
+
+}
+.sub-navbar-list{
+    display : flex;
+}
+.sub-navbar-list p{
+    margin : 5px 0px 6px;
+    padding: 8px 9px;
+    font-size: 0.95rem;
+}
