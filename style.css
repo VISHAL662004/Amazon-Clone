@@ -87,11 +87,18 @@
 
 /* box 4 */
 span{
-    font-size: 0.7 rem;
+    font-size: 0.7rem;
 }
 .nav-second{
-    font-size: 0.7 rem;
+    font-size: 0.7rem;
     font-weight: 700;
 }
 
 /* box 6 */
+.nav-cart i{
+        font-size: 30px;
+}
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
